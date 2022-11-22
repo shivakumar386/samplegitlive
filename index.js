@@ -1,10 +1,20 @@
 console.log("Hello Shiva....");
 console.log("Edited by shiva....");
 for (let i = 0; i < i.length; i++) {
-    console.log(i)
+  console.log(i);
 }
 for (let i = 0; i < i.length; i++) {
-    console.log(i)
+  console.log(i);
 }
 
-console.log("Commited by rajesh S and missing values")
+Array.map((item) => {
+  console.log(item);
+});
+
+Array.filter((item) => {
+  console.log(item, "Rajesh");
+})
+
+Array.find((item) => {
+  console.log("item, Rajesh Singarapu");
+})
