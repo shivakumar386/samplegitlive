@@ -13,8 +13,16 @@ Array.map((item) => {
 
 Array.filter((item) => {
   console.log(item, "Rajesh");
-})
+});
 
 Array.find((item) => {
   console.log("item, Rajesh Singarapu");
-})
+});
+
+Array.map((item) => {
+  console.log(item);
+});
+
+Array.filter((item) => {
+  console.log(item, "Shiva Kumar");
+});
