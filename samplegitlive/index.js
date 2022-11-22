@@ -15,14 +15,6 @@ Array.filter((item) => {
   console.log(item, "Shiva");
 });
 
-Array.findIndex((index) => {
-  console.log("index, siva kumar");
-});
-
-Array.map((item) => {
-  console.log(item);
-});
-
-Array.filter((item) => {
-  console.log(item, "Shiva Kumar");
-});
+Array.find(Index, Index, Index => {
+  console.log("Committed by rajesh s");
+})
