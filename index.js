@@ -15,7 +15,6 @@
 //   console.log(item, "Rajesh");
 // });
 
-<<<<<<< HEAD
 // Array.find(Index, Index, (Index) => {
 //   console.log(Index, Index, Index, "From s rajesh");
 // });
@@ -24,8 +23,7 @@
 //   console.log("Committed by rajesh s");
 // });
 
-console.log("From Siva Kumar");
-=======
+// console.log("From Siva Kumar");
 // Array.find(Index, Index, Index => {
 //   console.log(Index, Index, Index, "From s rajesh");
 // })
@@ -34,5 +32,6 @@ console.log("From Siva Kumar");
 //   console.log("Committed by rajesh s");
 // })
 
-console.log("From Rajesh S")
->>>>>>> b809167e7930a99b025c8a71c584174f29d431de
+// console.log("From Rajesh S")
+
+console.log("Improving Alpine Code Extension");
